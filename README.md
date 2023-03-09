@@ -34,12 +34,12 @@ cd opt
 // VXEファイルを起動
  xxxx.vxe
 
-変数　  hensu
-プリミティブ型  primitive
-フロー制御  flow
-構造体  struct_impl
-所有権  ownership_move
-ジェネリクス  generics
-クレート  crate_random
-トレイト  trait_sample
-マルチスレッド　multi_thread
+- 変数　  hensu
+- プリミティブ型  primitive
+- フロー制御  flow
+- 構造体  struct_impl
+- 所有権  ownership_move
+- ジェネリクス  generics
+- クレート  crate_random
+- トレイト  trait_sample
+- マルチスレッド　multi_thread
